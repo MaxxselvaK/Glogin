@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "601235967608",
+    "project_id": "glogin-179419"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601235967608:android:5e7974cf3cb3b143",
+        "android_client_info": {
+          "package_name": "examble.com.glogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601235967608-uh8cv8cdefhl24stuid6mvtha0605vor.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "601235967608-fo4e9dir0eqc6uau7egd25s4r83is3mr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "examble.com.glogin",
+            "certificate_hash": "df45ad0c35bcf8159795348c3828967ac0ceddd6"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOhQ9pqOiJZI7rXPN1MIEXdFNmiONb-Hs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
